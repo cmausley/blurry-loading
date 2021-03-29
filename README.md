@@ -1,6 +1,7 @@
 # Blurry Loading
 
 ## Table of Contents
+
   - [Purpose](#purpose)
   - [Final Product](#final-product)
   - [Technologies](#technologies)
