@@ -16,7 +16,7 @@ This project offers a gradually loading image which shifts into focus when the u
 
 ## Final Product
 
-![video sample of project](./attachments/Hidden-Search-and-14-more-pages.gif)
+![video sample of project](./attachments/Blurry-Loading-and-20-more-pages.gif)
 
 ## Technologies
 
